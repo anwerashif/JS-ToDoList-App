@@ -27,7 +27,7 @@ You can see the app in action here: [Live Demo](https://github.com/anwerashif/JS
    ```
 2. Navigate to the project directory:
    ```bash
-   cd js-todo-list-app
+   cd js-todolist-app
    ```
 3. Open `index.html` in your preferred browser:
    ```bash
